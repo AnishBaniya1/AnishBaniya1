@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools : </h3>
 
-![](https://skillicons.dev/icons?i=html,css,javascript,mysql,git,github,c,dotnet,postman,dart,vscode,visualstudio,flutter) 
+![](https://skillicons.dev/icons?i=html,css,javascript,mysql,git,github,cs,dotnet,postman,dart,vscode,flutter) 
 
 
 
